@@ -1,0 +1,26 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ---- 采集产物（勿提交，含未核验数据）----
+data/
+logs/
+sources/
+考研招生计划_*/
+考研招生计划_*.xlsx
+采集报告_*.md
+batch_*.json
+schools.txt
+
+# ---- 仅保留 Release 附件 ----
+dist/*
+!dist/*.zip
+
+# ---- 系统与编辑器 ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
