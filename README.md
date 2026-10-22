@@ -21,6 +21,8 @@
 
 ## 安装
 
+> 完整步骤、验证方式、更新与卸载、常见问题见 **[INSTALL.md](INSTALL.md)**。
+
 ```bash
 git clone https://github.com/<你的用户名>/cn-grad-admission-collector.git
 cd cn-grad-admission-collector
